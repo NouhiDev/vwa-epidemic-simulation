@@ -49,4 +49,4 @@ I have tried to simplify the code and comment it so anyone can read it and start
 - [x] Optimization for Web
 
 
-Please read our [contributing guidelines](CONTRIBUTING.md) for more detailed information.
+Please read the [contributing guidelines](CONTRIBUTING.md) for more detailed information.
