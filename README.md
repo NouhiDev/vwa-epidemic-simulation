@@ -40,14 +40,13 @@ In its current state, this software performs exactly as it should. However, as a
 
 I have tried to simplify the code and comment it so anyone can read it and start contributing.
 
-- [ ] Creating better documentation and adding a command line interface.
-- [ ] Allowing the user to choose background music for their videos.
-- [x] Allowing users to choose a reddit thread instead of being randomized.
-- [x] Allowing users to choose a background that is picked instead of the Minecraft one.
-- [x] Allowing users to choose between any subreddit.
-- [x] Allowing users to change voice.
-- [x] Checks if a video has already been created
-- [x] Light and Dark modes
-- [x] NSFW post filter
+**Checklist:**
+- [ ] Create documentation
+- [x] Basic important parameters
+- [ ] Advanced parameters
+- [ ] Heterogeneous  population
+- [x] User-friendly interface
+- [x] Optimization for Web
+
 
 Please read our [contributing guidelines](CONTRIBUTING.md) for more detailed information.
