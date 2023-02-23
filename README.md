@@ -22,3 +22,9 @@ The simulation is designed to be easy to use, and you can get started right away
 
 **IMPORTANT**
 For optimal performance, it is recommended to enable hardware acceleration in your browser.
+
+## Disclaimers
+
+## Requirements
+
+## Installation
