@@ -33,3 +33,21 @@ The simulation is designed to be easy to use, and you can get started right away
 ## Installation
 - Clone this repository
 - Open the folder in Unity
+
+## Contributing & Ways to improve
+
+In its current state, this software performs exactly as it should. However, as always, there is always room for improvement.
+
+I have tried to simplify the code and comment it so anyone can read it and start contributing.
+
+- [ ] Creating better documentation and adding a command line interface.
+- [ ] Allowing the user to choose background music for their videos.
+- [x] Allowing users to choose a reddit thread instead of being randomized.
+- [x] Allowing users to choose a background that is picked instead of the Minecraft one.
+- [x] Allowing users to choose between any subreddit.
+- [x] Allowing users to change voice.
+- [x] Checks if a video has already been created
+- [x] Light and Dark modes
+- [x] NSFW post filter
+
+Please read our [contributing guidelines](CONTRIBUTING.md) for more detailed information.
