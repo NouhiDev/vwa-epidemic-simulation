@@ -52,4 +52,4 @@ I have tried to simplify the code and comment it so anyone can read it and start
 **At this point in time**, contributing is not possible.
 
 ## Credits
-All icons were created by [Freepik - Flaticon](https://www.flaticon.com/free-icons)
+All icons were created by [Freepik - Flaticon](https://www.flaticon.com)
