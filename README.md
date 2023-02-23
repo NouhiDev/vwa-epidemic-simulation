@@ -10,7 +10,9 @@ For trying out the simulation, it is hosted on my personal website: https://nouh
 
 It offers an interactive simulation that lets you adjust various parameters, such as the transmission rate and the population size, so you can see how different scenarios play out. It also features a live-updating graph, so you can see the course of infection in real time.
 
-(https://github.com/NouhiDev/vwa-epidemic-simulation/example.png)
+<picture>
+  <img src="https://github.com/NouhiDev/vwa-epidemic-simulation/example.png">
+</picture>
 
 The epidemic simulation uses a simplified model of disease transmission based on a mathematical approach known as the SIR (Susceptible-Infected-Recovered) model. By adjusting the parameters, you can see how a disease spreads through a population and how different interventions, such as vaccinations or quarantine measures, can affect the course of the epidemic.
 
