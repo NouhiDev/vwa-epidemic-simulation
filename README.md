@@ -27,6 +27,7 @@ The simulation is designed to be easy to use, and you can get started right away
 - This program was written in a limited amount of time and therefore has lots of room for improvement.
 
 ## Requirements
-
+- Unity 2020.3.30f1 or higher
+- WebGL
 
 ## Installation
