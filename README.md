@@ -31,3 +31,5 @@ The simulation is designed to be easy to use, and you can get started right away
 - WebGL
 
 ## Installation
+- Clone this repository
+- Open the folder in Unity
