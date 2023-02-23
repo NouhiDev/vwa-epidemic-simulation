@@ -18,7 +18,7 @@ It offers an interactive simulation that lets you adjust various parameters, suc
 
 The epidemic simulation uses a simplified model of disease transmission based on a mathematical approach known as the SIR (Susceptible-Infected-Recovered) model. By adjusting the parameters, you can see how a disease spreads through a population and how different interventions, such as vaccinations or quarantine measures, can affect the course of the epidemic.
 
-The simulation is designed to be easy to use, and you can get started right away. Just head to nouhi.dev/epidemic-simulation and play around with the different settings to see how the simulation changes. Whether you're a student, a researcher, or just someone curious about the dynamics of disease transmission, the epidemic simulation is a great way to explore these concepts in a fun and engaging way.
+The simulation is designed to be easy to use, and you can get started right away. Just head to `nouhi.dev/epidemic-simulation` and play around with the different settings to see how the simulation changes. Whether you're a student, a researcher, or just someone curious about the dynamics of disease transmission, the epidemic simulation is a great way to explore these concepts in a fun and engaging way.
 
 **IMPORTANT**
 - For optimal performance, it is recommended to enable hardware acceleration in your browser.
