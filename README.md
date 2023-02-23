@@ -21,7 +21,7 @@ The epidemic simulation uses a simplified model of disease transmission based on
 The simulation is designed to be easy to use, and you can get started right away. Just head to `nouhi.dev/epidemic-simulation` and play around with the different settings to see how the simulation changes. Whether you're a student, a researcher, or just someone curious about the dynamics of disease transmission, the epidemic simulation is a great way to explore these concepts in a fun and engaging way.
 
 **IMPORTANT**
-- For optimal performance, it is recommended to enable hardware acceleration in your browser.
+- For optimal performance, it is recommended to ***enable hardware acceleration*** in your browser.
 
 ## Disclaimers
 - This program was written in a limited amount of time and therefore has lots of room for improvement.
